@@ -1,0 +1,327 @@
+[
+  {
+    "ref": "d868e6e2-a133-450f-910a-40cdc99c17e6",
+    "keyword": "7de4cd4beacf6d5213a79ae034a603ab",
+    "answer": "Hola",
+    "options": {},
+    "from": "5215628312396",
+    "refSerialize": "c22e4066d61d81721def9b25d8a397e8"
+  },
+  {
+    "ref": "ans_2ca57b9a-e735-4482-a458-fff44049d0bc",
+    "keyword": "key_c4fc3190-5700-4308-9da1-0607c990e7ea",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b147b9a8f305ec6a88422a3f234a0834",
+    "from": "5215628312396"
+  },
+  {
+    "ref": "6e50f3e4-1063-464e-adb7-a182e1a72b38",
+    "keyword": null,
+    "answer": "🎉 Hola 🤜🏼 *EG* 🤛🏼\n¡Bienvenido a *netxus.mx*! 🚀 Nos alegra verte aquí.\n\n🌐 Visita https://netxus.mx\n📩 E-mail: Eduardo@netxus.mx",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5215628312396",
+    "refSerialize": "c2b029a914c5cd3b80ba213f45ccf26b"
+  },
+  {
+    "ref": "90231a44-0383-4a05-a3c3-290394f85529",
+    "keyword": "b147b9a8f305ec6a88422a3f234a0834",
+    "answer": "Hablar con un asesor 🙋‍♂️",
+    "options": {},
+    "from": "5215628312396",
+    "refSerialize": "f032470fd6938b44fca0383382a6639c"
+  },
+  {
+    "ref": "ans_e415d1ca-4586-49ed-8ef5-4033ec584ddb",
+    "keyword": "key_04d6af16-51e3-420c-b98e-48892cb13670",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "e615e29f10d3ba78dfc1d4484bada29e",
+    "from": "5215628312396"
+  },
+  {
+    "ref": "b148b3d3-a3f3-4f10-9ebe-b6668b2d85fd",
+    "keyword": null,
+    "answer": "En un momento sera atendido por nuestro asesor, puede visitar nuestra pagian web para más informacion:\nwww.netxus.mx",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5215628312396",
+    "refSerialize": "8f03d4a124c661c63a1322031e2de088"
+  },
+  {
+    "ref": "f8bfe6ec-629c-444d-a83f-9eb3723f280b",
+    "keyword": null,
+    "answer": "🚨 Conectando con un asesor... 🚨",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5215628312396",
+    "refSerialize": "670edb48f1de387b6d8921940550457c"
+  },
+  {
+    "ref": "5e6d3cb7-6191-49ed-96b1-3e77834cc13b",
+    "keyword": "e615e29f10d3ba78dfc1d4484bada29e",
+    "answer": "lista de herramientas",
+    "options": {},
+    "from": "5215628312396",
+    "refSerialize": "075ec89e68425c305da58ed10cc1b759"
+  },
+  {
+    "ref": "ans_cba154c8-b08f-4f77-9c25-71ea69d748c7",
+    "keyword": "key_d26f8d9b-089b-44fb-8403-6c3d944fbfad",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "ac8ffc4070c001a70d469653acdbced3",
+    "from": "5215628312396"
+  },
+  {
+    "ref": "2b7c5868-de6a-44b7-b5c1-c325de700fe5",
+    "keyword": null,
+    "answer": "*Hola,* *EG*👋\nRevise si el numero de solicitud de cliente es correcto o escriba ayuda para ser atendido por un asesor.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5215628312396",
+    "refSerialize": "1aa23fe890573aeabf7c44675b245d7f"
+  },
+  {
+    "ref": "64dfa5f5-99ce-441f-98dd-c2ecb1f97aa5",
+    "keyword": null,
+    "answer": "Por favor escriba nuevamente su codigo de cliente.\nFecha de consulta: *22 - 6 - 2024*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5215628312396",
+    "refSerialize": "ebefc1ce2b762f9c8a3b4452830aafdf"
+  },
+  {
+    "ref": "b0b8ba3e-d8b9-4faa-b9a3-d49b1eb9ad3b",
+    "keyword": "ac8ffc4070c001a70d469653acdbced3",
+    "answer": "Lista de herramientas",
+    "options": {},
+    "from": "5215628312396",
+    "refSerialize": "e684b30eac0e938323dc48452493fb92"
+  },
+  {
+    "ref": "ans_cba154c8-b08f-4f77-9c25-71ea69d748c7",
+    "keyword": "key_d26f8d9b-089b-44fb-8403-6c3d944fbfad",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "ac8ffc4070c001a70d469653acdbced3",
+    "from": "5215628312396"
+  },
+  {
+    "ref": "e3db80f0-d5c9-4816-b3e6-b30785741cce",
+    "keyword": null,
+    "answer": "Hola *EG* 👋\n*Hoy es:*\n*22* - *6* - *2024*\n⌚️ 23:4:7\n\n⚠️ *Información >>* Lista de herraminetas para descarga por powershell\n\n🌐 *URL >>* https://i0002.clarodrive.com/s/tpXJaBqyaFfomXX/download\n\n\n⁉️ *>>* Escriba *AYUDA* para recibir atención de nuestro asesor en linea.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5215628312396",
+    "refSerialize": "4c3b39e77b66093a473d07833949f41d"
+  },
+  {
+    "ref": "ans_7ca1be7c-f744-4d19-9e04-ba13540096ee",
+    "keyword": "key_68d35248-720d-47e7-9c94-28b2b1b46e28",
+    "answer": "*¿Desea regresar al menu principal o revisar otro numero de cliente?*\nResponda con un: *SI* o *NO*",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "82f5765d2d5e955691f55daed6422195",
+    "from": "5215628312396"
+  },
+  {
+    "ref": "ans_8d954693-8154-4485-aed3-8ec5e8398dfa",
+    "keyword": "ans_7ca1be7c-f744-4d19-9e04-ba13540096ee",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b530238e2f80ada34be399b357527a92",
+    "from": "5215628312396"
+  },
+  {
+    "ref": "39b310f0-40b5-44b6-9ad8-f41a66a39ead",
+    "keyword": "b530238e2f80ada34be399b357527a92",
+    "answer": "Realizar un pago 💲",
+    "options": {},
+    "from": "5215628312396",
+    "refSerialize": "fd71610871f042f7fbc6211c4b3395f1"
+  },
+  {
+    "ref": "ans_8d954693-8154-4485-aed3-8ec5e8398dfa",
+    "keyword": "ans_7ca1be7c-f744-4d19-9e04-ba13540096ee",
+    "answer": "Por favor responda para continuar\n\n*¿Desea regresar al menu principal?*\nResponda con un: *SI* o *N0*",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b530238e2f80ada34be399b357527a92",
+    "from": "5215628312396"
+  },
+  {
+    "ref": "f5b21f02-1b53-4e3f-8e1d-77a74720a0fd",
+    "keyword": "b530238e2f80ada34be399b357527a92",
+    "answer": "si",
+    "options": {},
+    "from": "5215628312396",
+    "refSerialize": "715ca38ec28b8dabb30e75e511c57a3a"
+  },
+  {
+    "ref": "ans_2ca57b9a-e735-4482-a458-fff44049d0bc",
+    "keyword": "key_c4fc3190-5700-4308-9da1-0607c990e7ea",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b147b9a8f305ec6a88422a3f234a0834",
+    "from": "5215628312396"
+  },
+  {
+    "ref": "8f5ad18a-a561-4902-945e-ab53d5672cba",
+    "keyword": null,
+    "answer": "🎉 Hola 🤜🏼 *EG* 🤛🏼\n¡Bienvenido a *netxus.mx*! 🚀 Nos alegra verte aquí.\n\n🌐 Visita https://netxus.mx\n📩 E-mail: Eduardo@netxus.mx",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5215628312396",
+    "refSerialize": "c2b029a914c5cd3b80ba213f45ccf26b"
+  },
+  {
+    "ref": "c49a5565-0543-4d46-9311-830a89c45327",
+    "keyword": "b147b9a8f305ec6a88422a3f234a0834",
+    "answer": "Realizar un pago 💲",
+    "options": {},
+    "from": "5215628312396",
+    "refSerialize": "fd71610871f042f7fbc6211c4b3395f1"
+  },
+  {
+    "ref": "ans_cba154c8-b08f-4f77-9c25-71ea69d748c7",
+    "keyword": "key_d26f8d9b-089b-44fb-8403-6c3d944fbfad",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "ac8ffc4070c001a70d469653acdbced3",
+    "from": "5215628312396"
+  },
+  {
+    "ref": "11907ed4-a398-4ffd-87c1-e2979837d140",
+    "keyword": null,
+    "answer": "Hola *EG* 👋\n*Hoy es:*\n*22* - *6* - *2024*\n⌚️ 23:4:37\n\n⚠️ *Información >>* *Ingresa al link para realizar tu pago.*\n\n🌐 *URL >>* https://bit.ly/PAGO-NETXUS\n\n\n⁉️ *>>* Escriba *AYUDA* para recibir atención de nuestro asesor en linea.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5215628312396",
+    "refSerialize": "579ff57964329ac7a161028543c73bd5"
+  },
+  {
+    "ref": "ans_7ca1be7c-f744-4d19-9e04-ba13540096ee",
+    "keyword": "key_68d35248-720d-47e7-9c94-28b2b1b46e28",
+    "answer": "*¿Desea regresar al menu principal o revisar otro numero de cliente?*\nResponda con un: *SI* o *NO*",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "82f5765d2d5e955691f55daed6422195",
+    "from": "5215628312396"
+  },
+  {
+    "ref": "ans_8d954693-8154-4485-aed3-8ec5e8398dfa",
+    "keyword": "ans_7ca1be7c-f744-4d19-9e04-ba13540096ee",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b530238e2f80ada34be399b357527a92",
+    "from": "5215628312396"
+  }
+]

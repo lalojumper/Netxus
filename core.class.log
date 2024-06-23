@@ -1,0 +1,329 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215628312396@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09E3FD12F2B145BDF66',
+    participant: undefined
+  },
+  messageTimestamp: 1719118969,
+  pushName: 'EG',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  name: 'EG',
+  from: '5215628312396',
+  host: '5215644633927'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2ca57b9a-e735-4482-a458-fff44049d0bc',
+  keyword: 'key_c4fc3190-5700-4308-9da1-0607c990e7ea',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'b147b9a8f305ec6a88422a3f234a0834'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215628312396@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB032B5AE52EBB84BD18C',
+    participant: undefined
+  },
+  messageTimestamp: 1719118976,
+  pushName: 'EG',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    pollUpdateMessage: PollUpdateMessage {
+      pollCreationMessageKey: [MessageKey],
+      vote: [PollEncValue],
+      senderTimestampMs: [Long]
+    }
+  },
+  body: '',
+  name: 'EG',
+  from: '5215628312396',
+  host: '5215644633927'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '5215628312396@s.whatsapp.net',
+    fromMe: true,
+    id: 'BAE508832E730570',
+    participant: undefined
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: 'Hablar con un asesor 🙋‍♂️',
+  from: '5215628312396',
+  pushName: 'EG',
+  broadcast: false,
+  messageTimestamp: 1719118976,
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer 1e 63 57 9f 88 3a 0a 72 bc 8b 33 28 87 a5 8a 8c cd 68 bd bc e3 d3 f0 ae 00 77 16 93 4d 8c d5 2c>
+    },
+    pollCreationMessage: PollCreationMessage {
+      options: [Array],
+      name: 'Tengo estas opciones para ti:',
+      selectableOptionsCount: 1
+    }
+  },
+  type: 'poll',
+  host: '5215644633927'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e415d1ca-4586-49ed-8ef5-4033ec584ddb',
+  keyword: 'key_04d6af16-51e3-420c-b98e-48892cb13670',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e615e29f10d3ba78dfc1d4484bada29e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215628312396@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB045FAF30C4513DCBAEF',
+    participant: undefined
+  },
+  messageTimestamp: 1719119020,
+  pushName: 'EG',
+  broadcast: false,
+  message: Message {
+    conversation: 'lista de herramientas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'lista de herramientas',
+  name: 'EG',
+  from: '5215628312396',
+  host: '5215644633927'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cba154c8-b08f-4f77-9c25-71ea69d748c7',
+  keyword: 'key_d26f8d9b-089b-44fb-8403-6c3d944fbfad',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ac8ffc4070c001a70d469653acdbced3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215628312396@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB062BE8BE6A6AA70CE4C',
+    participant: undefined
+  },
+  messageTimestamp: 1719119047,
+  pushName: 'EG',
+  broadcast: false,
+  message: Message {
+    conversation: 'Lista de herramientas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Lista de herramientas',
+  name: 'EG',
+  from: '5215628312396',
+  host: '5215644633927'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cba154c8-b08f-4f77-9c25-71ea69d748c7',
+  keyword: 'key_d26f8d9b-089b-44fb-8403-6c3d944fbfad',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ac8ffc4070c001a70d469653acdbced3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215628312396@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08B832FB81EF212C714',
+    participant: undefined
+  },
+  messageTimestamp: 1719119060,
+  pushName: 'EG',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    pollUpdateMessage: PollUpdateMessage {
+      pollCreationMessageKey: [MessageKey],
+      vote: [PollEncValue],
+      senderTimestampMs: [Long]
+    }
+  },
+  body: '',
+  name: 'EG',
+  from: '5215628312396',
+  host: '5215644633927'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '5215628312396@s.whatsapp.net',
+    fromMe: true,
+    id: 'BAE508832E730570',
+    participant: undefined
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: 'Realizar un pago 💲',
+  from: '5215628312396',
+  pushName: 'EG',
+  broadcast: false,
+  messageTimestamp: 1719119060,
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer 1e 63 57 9f 88 3a 0a 72 bc 8b 33 28 87 a5 8a 8c cd 68 bd bc e3 d3 f0 ae 00 77 16 93 4d 8c d5 2c>
+    },
+    pollCreationMessage: PollCreationMessage {
+      options: [Array],
+      name: 'Tengo estas opciones para ti:',
+      selectableOptionsCount: 1
+    }
+  },
+  type: 'poll',
+  host: '5215644633927'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215628312396@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB045B8EB23C2DC5C54F8',
+    participant: undefined
+  },
+  messageTimestamp: 1719119068,
+  pushName: 'EG',
+  broadcast: false,
+  message: Message {
+    conversation: 'si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'si',
+  name: 'EG',
+  from: '5215628312396',
+  host: '5215644633927'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215628312396@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0BCA6E51EE0623C683D',
+    participant: undefined
+  },
+  messageTimestamp: 1719119077,
+  pushName: 'EG',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    pollUpdateMessage: PollUpdateMessage {
+      pollCreationMessageKey: [MessageKey],
+      vote: [PollEncValue],
+      senderTimestampMs: [Long]
+    }
+  },
+  body: '',
+  name: 'EG',
+  from: '5215628312396',
+  host: '5215644633927'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '5215628312396@s.whatsapp.net',
+    fromMe: true,
+    id: 'BAE55DFA1A8CF323',
+    participant: undefined
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: 'Realizar un pago 💲',
+  from: '5215628312396',
+  pushName: 'EG',
+  broadcast: false,
+  messageTimestamp: 1719119077,
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer c8 db a8 bb 8d 11 03 04 75 57 ba 32 ec 56 e2 2b 3a 95 41 62 3a f1 83 70 ac ec af a8 3d 56 21 17>
+    },
+    pollCreationMessage: PollCreationMessage {
+      options: [Array],
+      name: 'Tengo estas opciones para ti:',
+      selectableOptionsCount: 1
+    }
+  },
+  type: 'poll',
+  host: '5215644633927'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cba154c8-b08f-4f77-9c25-71ea69d748c7',
+  keyword: 'key_d26f8d9b-089b-44fb-8403-6c3d944fbfad',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ac8ffc4070c001a70d469653acdbced3'
+}

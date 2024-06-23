@@ -1,0 +1,7 @@
+pm2 start app.js --name=bot
+
+Nueva comando para ejecutar
+pm2 start ./dist/app.js --name bot
+
+Guardar modificaciones:
+npm run build
